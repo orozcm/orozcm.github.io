@@ -2,7 +2,7 @@
 title: Guia Rápida
 icon: fas fa-stream
 order: 1
-mermaid: true
+tags: quickstart
 ---
 ## Registrar un nuevo dispositivo
 
